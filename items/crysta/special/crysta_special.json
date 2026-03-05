@@ -4,7 +4,7 @@
     "key": "olobaid",
     "display": {
       "name": "Olobaid",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -81,7 +81,7 @@
     "key": "zeagrysta",
     "display": {
       "name": "Zeagrysta",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -123,7 +123,7 @@
     "key": "machine_god_maple",
     "display": {
       "name": "Machine God Maple",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -180,7 +180,7 @@
     "key": "black_lixi",
     "display": {
       "name": "Black Lixi",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -252,7 +252,7 @@
     "key": "scream_shadow",
     "display": {
       "name": "Scream Shadow",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -383,7 +383,7 @@
     "key": "zodiac_s_blessing",
     "display": {
       "name": "Zodiac's Blessing",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -440,7 +440,7 @@
     "key": "aubergine_dragon_auvio",
     "display": {
       "name": "Aubergine Dragon Auvio",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -503,7 +503,7 @@
     "key": "vodre",
     "display": {
       "name": "Vodre",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -653,7 +653,7 @@
     "key": "broker_goblin",
     "display": {
       "name": "Broker Goblin",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -716,7 +716,7 @@
     "key": "trus",
     "display": {
       "name": "Trus",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -815,7 +815,7 @@
     "key": "stellar_ooze_ii",
     "display": {
       "name": "Stellar Ooze II",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -868,7 +868,7 @@
     "key": "ghost_forest_dark_shaman",
     "display": {
       "name": "Ghost Forest Dark Shaman",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -957,7 +957,7 @@
     "key": "wolkissa",
     "display": {
       "name": "Wolkissa",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1046,7 +1046,7 @@
     "key": "ignitrus",
     "display": {
       "name": "Ignitrus",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1181,7 +1181,7 @@
     "key": "captain_amiya",
     "display": {
       "name": "Captain Amiya",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1214,7 +1214,7 @@
     "key": "star_wizard",
     "display": {
       "name": "Star Wizard",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1257,7 +1257,7 @@
     "key": "dark_captain_with_b",
     "display": {
       "name": "Dark Captain with B",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1412,7 +1412,7 @@
     "key": "ruzart",
     "display": {
       "name": "Ruzart",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1572,7 +1572,7 @@
     "key": "potumotter",
     "display": {
       "name": "Potumotter",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1670,7 +1670,7 @@
     "key": "volgagon",
     "display": {
       "name": "Volgagon",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1703,7 +1703,7 @@
     "key": "frenzy_viola",
     "display": {
       "name": "Frenzy Viola",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1736,7 +1736,7 @@
     "key": "grimuckus",
     "display": {
       "name": "Grimuckus",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1769,7 +1769,7 @@
     "key": "specter_of_death",
     "display": {
       "name": "Specter of Death",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1807,7 +1807,7 @@
     "key": "seele_zauga",
     "display": {
       "name": "Seele Zauga",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1921,7 +1921,7 @@
     "key": "felien",
     "display": {
       "name": "Felien",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -1959,7 +1959,7 @@
     "key": "crystal_titan",
     "display": {
       "name": "Crystal Titan",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2012,7 +2012,7 @@
     "key": "titeres",
     "display": {
       "name": "Titeres",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2050,7 +2050,7 @@
     "key": "venena",
     "display": {
       "name": "Venena",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2108,7 +2108,7 @@
     "key": "choiyaki_mentai",
     "display": {
       "name": "Choiyaki Mentai",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2247,7 +2247,7 @@
     "key": "dragon_witch",
     "display": {
       "name": "Dragon Witch",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2367,7 +2367,7 @@
     "key": "bexiz",
     "display": {
       "name": "Bexiz",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2425,7 +2425,7 @@
     "key": "don_yeti",
     "display": {
       "name": "Don Yeti",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2453,7 +2453,7 @@
     "key": "granny",
     "display": {
       "name": "Granny",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2481,7 +2481,7 @@
     "key": "goovua",
     "display": {
       "name": "Goovua",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2529,7 +2529,7 @@
     "key": "viscum",
     "display": {
       "name": "Viscum",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2572,7 +2572,7 @@
     "key": "shining_gentleman",
     "display": {
       "name": "Shining Gentleman",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2610,7 +2610,7 @@
     "key": "golden_potum",
     "display": {
       "name": "Golden Potum",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2627,7 +2627,7 @@
     "key": "violaccoon",
     "display": {
       "name": "Violaccoon",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2660,7 +2660,7 @@
     "key": "stone_mercenary",
     "display": {
       "name": "Stone Mercenary",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2693,7 +2693,7 @@
     "key": "ooze",
     "display": {
       "name": "Ooze",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2751,7 +2751,7 @@
     "key": "eerie_crystal",
     "display": {
       "name": "Eerie Crystal",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
@@ -2789,7 +2789,7 @@
     "key": "dark_mushroom",
     "display": {
       "name": "Dark Mushroom",
-      "color": null
+      "color": "purple"
     },
     "type": "special",
     "stats": [
