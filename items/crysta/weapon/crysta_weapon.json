@@ -699,7 +699,7 @@
     "key": "primordial_moonlit",
     "display": {
       "name": "Primordial Moonlit",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -1044,7 +1044,7 @@
     "key": "xmas_princess_in_black",
     "display": {
       "name": "Xmas Princess in Black",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -1627,7 +1627,7 @@
     "key": "crimson_one_eyed_wolf",
     "display": {
       "name": "Crimson One-Eyed Wolf",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -1675,7 +1675,7 @@
     "key": "devil_dango",
     "display": {
       "name": "Devil Dango",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -1723,7 +1723,7 @@
     "key": "arbogazella",
     "display": {
       "name": "Arbogazella",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -1822,7 +1822,7 @@
     "key": "midsummer_passion",
     "display": {
       "name": "Midsummer Passion",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -2119,7 +2119,7 @@
     "key": "lil_wonder_rat",
     "display": {
       "name": "Lil Wonder Rat",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -2534,7 +2534,7 @@
     "key": "jeandoux",
     "display": {
       "name": "Jeandoux",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -2582,7 +2582,7 @@
     "key": "kuzto",
     "display": {
       "name": "Kuzto",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -2676,7 +2676,7 @@
     "key": "blancanine_the_white_fang",
     "display": {
       "name": "Blancanine the White Fang",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -2714,7 +2714,7 @@
     "key": "armasite",
     "display": {
       "name": "Armasite",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -2747,7 +2747,7 @@
     "key": "drama_clown",
     "display": {
       "name": "Drama Clown",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -2877,7 +2877,7 @@
     "key": "neo_maton_sword",
     "display": {
       "name": "Neo Maton Sword",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -3151,7 +3151,7 @@
     "key": "pomie_chan",
     "display": {
       "name": "Pomie Chan",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -3274,7 +3274,7 @@
     "key": "usasama_the_necromancer",
     "display": {
       "name": "Usasama the Necromancer",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -3373,7 +3373,7 @@
     "key": "hero_potum",
     "display": {
       "name": "Hero Potum",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -3466,7 +3466,7 @@
     "key": "megiston_the_champion",
     "display": {
       "name": "Megiston The Champion",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -3534,7 +3534,7 @@
     "key": "cursed_crysta",
     "display": {
       "name": "Cursed Crysta",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -3694,7 +3694,7 @@
     "key": "zahhak_machina",
     "display": {
       "name": "Zahhak Machina",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -3747,7 +3747,7 @@
     "key": "commander_golem",
     "display": {
       "name": "Commander Golem",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -3780,7 +3780,7 @@
     "key": "grecia",
     "display": {
       "name": "Grecia",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -3971,7 +3971,7 @@
     "key": "evil_magic_sword",
     "display": {
       "name": "Evil Magic Sword",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4050,7 +4050,7 @@
     "key": "imitacia",
     "display": {
       "name": "Imitacia",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4098,7 +4098,7 @@
     "key": "imitator",
     "display": {
       "name": "Imitator",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4146,7 +4146,7 @@
     "key": "marchitar",
     "display": {
       "name": "Marchitar",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4184,7 +4184,7 @@
     "key": "lapin_the_necromancer",
     "display": {
       "name": "Lapin The Necromancer",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4217,7 +4217,7 @@
     "key": "zolban",
     "display": {
       "name": "Zolban",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4280,7 +4280,7 @@
     "key": "nightmare_potum",
     "display": {
       "name": "Nightmare Potum",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4307,7 +4307,7 @@
     "key": "evil_crystal_beast",
     "display": {
       "name": "Evil Crystal Beast",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4360,7 +4360,7 @@
     "key": "black_knight_of_delusion",
     "display": {
       "name": "Black Knight of Delusion",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4413,7 +4413,7 @@
     "key": "zega",
     "display": {
       "name": "Zega",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4466,7 +4466,7 @@
     "key": "death_colon",
     "display": {
       "name": "Death Colon",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4499,7 +4499,7 @@
     "key": "pillar_golem",
     "display": {
       "name": "Pillar Golem",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4552,7 +4552,7 @@
     "key": "moonlight_potum",
     "display": {
       "name": "Moonlight Potum",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4580,7 +4580,7 @@
     "key": "miracle_potum",
     "display": {
       "name": "Miracle Potum",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4608,7 +4608,7 @@
     "key": "ganglef",
     "display": {
       "name": "Ganglef",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4656,7 +4656,7 @@
     "key": "excavated_golem",
     "display": {
       "name": "Excavated Golem",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
@@ -4699,7 +4699,7 @@
     "key": "demon_s_gate",
     "display": {
       "name": "Demon's Gate",
-      "color": null
+      "color": "red"
     },
     "type": "weapon",
     "stats": [
