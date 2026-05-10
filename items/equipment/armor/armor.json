@@ -6875,5 +6875,20 @@
     "conditional_stats": [],
     "meta_effects": [],
     "obtained_from": []
+  },
+      "anniversary_festive_garb_xx_armor": {
+    "id": 287,
+    "key": "anniversary_festive_garb_xx_armor",
+    "type": "armor",
+    "stats": [
+      {
+        "stat_key": "def",
+        "value": 9000,
+        "value_type": "flat"
+      }
+    ],
+    "conditional_stats": [],
+    "meta_effects": [],
+    "obtained_from": []
   }
 }
